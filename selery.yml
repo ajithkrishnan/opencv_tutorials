@@ -20,9 +20,9 @@ uniform_weight: 30
 # use release tags to increased the weight of the last release contributors
 #consider_releases: False
 ## last releases additionaly weighted.
-releases_included: 3
+#releases_included: 3
 ## release weights
-release_weight: 70
+#release_weight: 70
 ## split mode
 ## full_split: weighted split over all contributors
 ## random_split: random weighted split with equal payout per contributor
